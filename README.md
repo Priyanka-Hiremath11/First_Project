@@ -1,3 +1,3 @@
-# First_Project
+# Personal_Assistant
 This code will generate a kind of weak AI which can do few tasks like saying "hello", opening google,youtube,whatsapp and generating QR code.
 
